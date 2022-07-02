@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "name": "PoorMansReact",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT"
+}
